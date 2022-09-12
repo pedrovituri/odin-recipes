@@ -1,0 +1,48 @@
+#title {
+    color: rgb(0, 0, 120);
+    background-color: rgb(228, 92, 92);
+    font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+
+.midtitle {
+    color: rgb(122, 6, 6);
+    background-color: rgb(186, 235, 235);
+    font-size: 32px; 
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.blurb {
+    font-family: monospace;
+    background-color: black;
+    color: white;
+    font-style: italic;
+    width: 400px;
+    font-weight: 000;
+}
+
+#title,
+.midtitle,
+.img,
+.blurb {
+    text-align: center;
+}
+
+.lists {
+    background-color: rgb(208, 247, 234);
+    color: rgb(51, 19, 19);
+}
+
+.instructions {
+    background-color: rgb(223, 223, 172);
+    color: rgb(43, 1, 1);
+}
+
+.lists,
+.instructions {
+    text-align: left;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
